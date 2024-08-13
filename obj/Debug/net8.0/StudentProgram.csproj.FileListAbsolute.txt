@@ -1,0 +1,15 @@
+C:\Tom\New folder\c\StudentProgram\bin\Debug\net8.0\StudentProgram.exe
+C:\Tom\New folder\c\StudentProgram\bin\Debug\net8.0\StudentProgram.deps.json
+C:\Tom\New folder\c\StudentProgram\bin\Debug\net8.0\StudentProgram.runtimeconfig.json
+C:\Tom\New folder\c\StudentProgram\bin\Debug\net8.0\StudentProgram.dll
+C:\Tom\New folder\c\StudentProgram\bin\Debug\net8.0\StudentProgram.pdb
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\StudentProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\StudentProgram.AssemblyInfoInputs.cache
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\StudentProgram.AssemblyInfo.cs
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\StudentProgram.csproj.CoreCompileInputs.cache
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\StudentProgram.sourcelink.json
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\StudentProgram.dll
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\refint\StudentProgram.dll
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\StudentProgram.pdb
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\StudentProgram.genruntimeconfig.cache
+C:\Tom\New folder\c\StudentProgram\obj\Debug\net8.0\ref\StudentProgram.dll
